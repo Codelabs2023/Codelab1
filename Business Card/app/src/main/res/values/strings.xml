@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Presentation Card</string>
+    <string name="name">Daniel Betancor</string>
+    <string name="experience_title">Android Developer</string>
+    <string name="phone_number">(+34) 605 93 42 79</string>
+    <string name="social_media">\@DaniDeveloper</string>
+    <string name="email">daniel@gmail.com</string>
+</resources>
